@@ -1,0 +1,12 @@
+C:\Users\secun\source\repos\prova\prova\bin\Debug\prova.exe.config
+C:\Users\secun\source\repos\prova\prova\bin\Debug\prova.exe
+C:\Users\secun\source\repos\prova\prova\bin\Debug\prova.pdb
+C:\Users\secun\source\repos\prova\prova\obj\Debug\prova.csproj.AssemblyReference.cache
+C:\Users\secun\source\repos\prova\prova\obj\Debug\prova.csproj.SuggestedBindingRedirects.cache
+C:\Users\secun\source\repos\prova\prova\obj\Debug\prova.Menu.resources
+C:\Users\secun\source\repos\prova\prova\obj\Debug\prova.Properties.Resources.resources
+C:\Users\secun\source\repos\prova\prova\obj\Debug\prova.csproj.GenerateResource.cache
+C:\Users\secun\source\repos\prova\prova\obj\Debug\prova.csproj.CoreCompileInputs.cache
+C:\Users\secun\source\repos\prova\prova\obj\Debug\prova.exe
+C:\Users\secun\source\repos\prova\prova\obj\Debug\prova.pdb
+C:\Users\secun\source\repos\prova\prova\obj\Debug\prova.Form1.resources
