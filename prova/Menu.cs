@@ -8,6 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+/*acabei ficando muito nervoso por nao poder usar o meu computador do laboratorio e isso me fez dar um branco em tudo, desculpe por isso*/
+
 namespace prova
 {
     public partial class Menu : Form
@@ -15,6 +17,7 @@ namespace prova
         public Menu()
         {
             InitializeComponent();
+            
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -24,7 +27,7 @@ namespace prova
 
         private void salvar_Click(object sender, EventArgs e)
         {
-            MessageBox.Show(computador.Text + cliente.Text + servico.Text + tipo_pagamento);
+            if(servico.)
         }
 
         private void computador_TextChanged(object sender, EventArgs e)
@@ -45,6 +48,11 @@ namespace prova
         private void tipo_pagamento_SelectedIndexChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            
         }
     }
 }
